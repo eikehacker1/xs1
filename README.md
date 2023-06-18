@@ -1,7 +1,7 @@
 # xs1
 One XSS automation tool
 
-#First let's download:
+##First let's download:
 
 git clone https://github.com/eikehacker1/xs1.git
 
