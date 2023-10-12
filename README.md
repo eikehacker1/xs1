@@ -8,17 +8,17 @@ git clone https://github.com/eikehacker1/xs1.git
 cd xs1
 second let's configure:
 
-#Download Golang from:
+# Download Golang from:
 
 https://go.dev/doc/install
 
-#if you are windows or mac user
+# if you are windows or mac user
 
-#If you are a linux user then in the terminal:
+# If you are a linux user then in the terminal:
 
 sudo apt install golang
 
-#Linux Installation:
+# Linux Installation:
 
 chmod +x *
 
